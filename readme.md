@@ -1,7 +1,13 @@
 # Twitter Scraper
+## Credits
+The code in this repository is entirely based on the code of 
+[jonbakerfish](https://github.com/jonbakerfish/TweetScraper). This repository contains only slight changes 
+to the original code, and all credits therefore go to 
+[jonbakerfish](https://github.com/jonbakerfish/TweetScraper).
+
 ## Introduction
 Scraper based on the code of [jonbakerfish](https://github.com/jonbakerfish/TweetScraper).
-The main modifications to his code are:
+The main modifications to her/his code are:
 * scrape also emoticons in text of tweets
 * avoid being blocked by Twitter's rate limits
 * save all results into a single json-file
